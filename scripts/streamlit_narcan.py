@@ -12,7 +12,7 @@ def main():
     st.caption(app_subtitle)
 
     ## load data
-    df = pd.read_csv("https://github.com/fishdmy/sfpd-data/blob/main/data/processed/narcan_deployment.csv")
+    df = pd.read_csv("https://raw.githubusercontent.com/fishdmy/sfpd-data/main/data/processed/narcan_deployment.csv")
     field_name = "Incident ID"
     metric_title = "Total number of Narcan deployment:"
     # total = df[field_name].count()
