@@ -12,7 +12,7 @@ def main():
     st.caption(app_subtitle)
 
     ## load data
-    df = pd.read_csv("https://raw.githubusercontent.com/fishdmy/sfpd-data/main/scripts/streamlit_drugarrests.py")
+    df = pd.read_csv("https://raw.githubusercontent.com/fishdmy/sfpd-data/main/data/processed/drug_arrest_data.csv")
     field_name = "Incident ID"
     metric_title = "Total number of drug-related arrests:"
     # total = df[field_name].count()
