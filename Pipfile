@@ -6,7 +6,7 @@ name = 'pypi'
 [packages]
 invoke = "*"
 gitpython = "*"
-altair = "*"
+altair = "==5.0.0rc1"
 geopandas = "*"
 pandas = "*"
 streamlit = "*"
