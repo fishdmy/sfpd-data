@@ -1,7 +1,7 @@
 # sfpd-data
 
-TK
-
+Notebook: [drug_epidemic.ipynb](https://github.com/fishdmy/sfpd-data/notebooks/drug_epidemic.ipynb) <br>
+Notebook with portable paths:[portable_paths_drug_epidemic.ipynb](https://github.com/fishdmy/sfpd-data/notebooks/portable_paths_drug_epidemic.ipynb)
 ## Setup
 
 > Before using this project, please ensure all dependencies are installed. See the [project home page][] for details.
